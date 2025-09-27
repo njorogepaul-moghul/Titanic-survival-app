@@ -3,6 +3,9 @@
 This project is an interactive **machine learning web app** built with **Streamlit**, where users can predict the survival chances of Titanic passengers.  
 It combines **two models** (Logistic Regression and Random Forest) and allows switching between them in real time.
 
+[**OPEN MY TITANIC SURVIVAL APP**](https://titanic-survival-app-5mccgp8injzcaqxjg4qsye.streamlit.app/)
+
+
 ## 🔍 Project Overview
 The Titanic dataset is a classic machine learning problem where the goal is to predict survival based on passenger details such as:
 - Age
@@ -25,6 +28,10 @@ This app lets users input passenger details and see predictions instantly.
    ```bash
    git clone https://github.com/your-username/titanic-prediction-app.git
    cd titanic-prediction-app
+   
 pip install -r requirements.txt
+
 streamlit run app.py
-http://localhost:8501
+
+[**OPEN MY TITANIC SURVIVAL APP**](https://titanic-survival-app-5mccgp8injzcaqxjg4qsye.streamlit.app/)
+
