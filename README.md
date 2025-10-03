@@ -26,7 +26,7 @@ This app lets users input passenger details and see predictions instantly.
 ## Installation & Running Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-prediction-app.git
+   git clone https://github.com/njorogepaul-moghul/titanic-prediction-app.git
    cd titanic-prediction-app
    
 pip install -r requirements.txt
